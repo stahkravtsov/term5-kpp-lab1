@@ -1,0 +1,10 @@
+true,Max,Verstappen,PZ-33SoftServe,,KPP,85.0,KPZ,87.0,APZ,67.0,QPZ,77.0
+true,Lando,Norris,PZ-37N-iX,,KPP,100.0,KPZ,34.0,APZ,65.0,QPZ,98.0
+true,Lzndo,Norris,PZ-37N-iX,,KPP,100.0,KPZ,34.0,APZ,65.0,QPZ,98.0
+true,Lyndo,Norris,PZ-37N-iX,,KPP,100.0,KPZ,34.0,APZ,65.0,QPZ,98.0
+true,Lando,Norris,PZ-37N-iX,,KPP,100.0,KPZ,34.0,APZ,65.0,QPZ,98.0
+true,Lando,Ntrris,PZ-37N-iX,,KPP,100.0,KPZ,34.0,APZ,65.0,QPZ,98.0
+true,Lando,Narris,PZ-37N-iX,,KPP,100.0,KPZ,34.0,APZ,65.0,QPZ,98.0
+true,Lando,Nzrris,PZ-37N-iX,,KPP,100.0,KPZ,34.0,APZ,65.0,QPZ,98.0
+true,Lando,,PZ-37N-iX,,KPP,100.0,KPZ,34.0,APZ,65.0,QPZ,98.0
+true,Lando,norris,PZ-37N-iX,,KPP,100.0,KPZ,34.0,APZ,65.0,QPZ,98.0
